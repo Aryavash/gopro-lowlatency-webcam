@@ -1,0 +1,4 @@
+pyvirtualcam>=0.12
+numpy>=1.24
+pystray>=0.19
+pillow>=10.0
